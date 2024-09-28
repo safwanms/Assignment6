@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(204, 224, 233);
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 0;
+
+}
+h1{
+    background-color: rgb(133, 135, 133);
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+
+}
+#fiction {
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(207, 227, 143);
+}
+#non-fiction {
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(242, 205, 229);
+}
+li {
+    border-style: solid;
+    list-style-type: none;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(239, 236, 232);
+    
+}
+.bestseller {
+    color: rgb(15, 13, 13);
+    background-color: rgb(226, 211, 81);
+    font-weight: bold;
+}
+.student-name {
+    font-style: italic;
+    color: darkblue;
+}
+footer {
+    text-align: center;
+    font-weight: bold;
+}
